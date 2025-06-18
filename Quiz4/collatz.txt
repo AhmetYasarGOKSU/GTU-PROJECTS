@@ -1,0 +1,6 @@
+1960
+980
+490
+245
+Decimal: 245
+Decimal to Hexadecimal: F5
