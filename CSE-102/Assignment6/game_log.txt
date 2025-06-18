@@ -1,0 +1,17 @@
+--- Vault Codebreaker Game Log ---
+Game Date: 2025-04-18 13:20:26
+Secret Code: 75341
+Code Length: 5
+Digit Range: 1-8
+Duplicates Allowed: 0
+Max Attempts: 5
+
+Attempt 1 :35487 =>  Feedback: M C M W M | Score: 23
+Attempt 2 :34567 =>  Feedback: M M M W M | Score: 41
+Attempt 3 :24215 =>  Feedback: W M W M M | Score: 52
+Attempt 4 :35412 =>  Feedback: M C M M W | Score: 75
+Attempt 5 :45461 =>  Feedback: M C M W C | Score: 103
+
+Final Score: 103
+Rank: Code Master 
+-----------------------

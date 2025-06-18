@@ -1,0 +1,13 @@
+Shot: 5 5 - MISS
+Shot: 2 0 - HIT
+Shot: 3 0 - HIT
+Shot: 2 8 - HIT
+Shot: 3 8 - HIT
+Shot: 4 8 - HIT
+Shot: 5 8 - HIT
+Shot: 0 9 - HIT
+Shot: 1 9 - HIT
+Shot: 2 9 - HIT
+Shot: 5 1 - HIT
+Shot: 5 2 - HIT
+Shot: 5 3 - HIT
